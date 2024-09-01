@@ -1,0 +1,81 @@
+body{
+    background-image: url("./image/beans.jpg");
+    
+    padding-left: 650px;
+    padding-right: 650px ;
+    padding-bottom: 100px;
+    padding-top: 100px;
+    padding-top: 100px;
+    font-family: sans-serif;
+}
+div{
+    background-color:burlywood;;
+    
+    padding-left: 30px;
+    padding-right: 30px ;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    
+}
+.Est{
+    text-align: center;
+    font-style: italic;
+}
+
+article {
+    display: block;
+    unicode-bidi: isolate;
+}
+
+
+h1{
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 40px;
+}
+h2{
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 30px;
+}
+
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -25px;
+}
+.item p {
+        display: inline-block;
+        margin-top: 5px;
+        margin-bottom: 5px;
+        font-size: 18px;
+        
+}
+.flavour, .Dessert{
+    width: 75%;
+}
+.price  {
+    text-align: right;
+    width: 24%;
+    
+    float: top;
+    
+}
+p{
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    unicode-bidi: isolate;
+} 
+
+hr {
+    height: 2px;
+    background-color: brown;
+    border-color: brown;
+}
+footer{
+    text-align: center;
+}
